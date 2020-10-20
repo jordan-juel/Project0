@@ -1,0 +1,47 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 4 products, 2 sources, 1 libraries
+[debug] current source = Set(${BASE}/src/main/scala/Project0.scala, ${BASE}/src/main/scala/Test.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/Project0.scala), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] 
+[debug] Initial source changes:
+[debug] 	removed: Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(${BASE}/src/main/scala/Project0.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(Project0.main, Project0)
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated classes: Set(Project0.main, Project0)
+[debug] All initially invalidated sources:Set(${BASE}/src/main/scala/Project0.scala)
+[debug] Initial set of included nodes: Project0.main, Project0
+[debug] compilation cycle 1
+[info] compiling 1 Scala source to C:\Users\Jordan\IdeaProjects\Project0\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.4.0:compile for Scala 2.13.3
+[debug] [zinc] Running cached compiler 6395172c for Scala compiler version 2.13.3
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre\lib\resources.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre\lib\rt.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre\lib\sunrsasign.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre\lib\jsse.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre\lib\jce.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre\lib\charsets.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre\lib\jfr.jar;C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre\classes;C:\Users\Jordan\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.3\scala-library-2.13.3.jar
+[debug] 	-classpath
+[debug] 	C:\Users\Jordan\IdeaProjects\Project0\target\scala-2.13\classes
+[debug] Invalidating (transitively) by inheritance from Project0...
+[debug] Initial set of included nodes: Project0
+[debug] Invalidated by transitive inheritance dependency: Set(Project0)
+[debug] Change NamesChange(Project0,ModifiedNames(changes = UsedName(main,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(ne,[Default]), UsedName(getClass,[Default]), UsedName(==,[Default]), UsedName(##,[Default]), UsedName(asInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(notify,[Default]), UsedName(hashCode,[Default]), UsedName(Project0;init;,[Default]), UsedName(wait,[Default]), UsedName(eq,[Default]), UsedName(Project0,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(clone,[Default]), UsedName(finalize,[Default]))) invalidates 1 classes due to The Project0 has the following regular definitions changed:
+[debug] 	UsedName(main,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(ne,[Default]), UsedName(getClass,[Default]), UsedName(==,[Default]), UsedName(##,[Default]), UsedName(asInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(notify,[Default]), UsedName(hashCode,[Default]), UsedName(Project0;init;,[Default]), UsedName(wait,[Default]), UsedName(eq,[Default]), UsedName(Project0,[Default]), UsedName(equals,[Default]), UsedName(notifyAll,[Default]), UsedName(clone,[Default]), UsedName(finalize,[Default]).
+[debug]   > by transitive inheritance: Set(Project0)
+[debug]   > 
+[debug]   > 
+[debug]         
+[debug] New invalidations:
+[debug] Initial set of included nodes: 
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] Final step, transitive dependencies:
+[debug] 	Set()
+[debug] No classes were invalidated.
+[debug] Scala compilation took 9.795210199 s
+[info] done compiling

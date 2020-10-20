@@ -1,0 +1,13 @@
+[debug] Packaging C:\Users\Jordan\IdeaProjects\Project0\target\scala-2.13\project0_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Project0$.class
+[debug] 	  C:\Users\Jordan\IdeaProjects\Project0\target\scala-2.13\classes\Project0$.class
+[debug] 	Project0$main$.class
+[debug] 	  C:\Users\Jordan\IdeaProjects\Project0\target\scala-2.13\classes\Project0$main$.class
+[debug] 	Project0$main$delayedInit$body.class
+[debug] 	  C:\Users\Jordan\IdeaProjects\Project0\target\scala-2.13\classes\Project0$main$delayedInit$body.class
+[debug] 	Project0.class
+[debug] 	  C:\Users\Jordan\IdeaProjects\Project0\target\scala-2.13\classes\Project0.class
+[debug] 	Test.class
+[debug] 	  C:\Users\Jordan\IdeaProjects\Project0\target\scala-2.13\classes\Test.class
+[debug] Done packaging.

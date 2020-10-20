@@ -1,0 +1,17 @@
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-generic_2.10/0.13.0/circe-generic_2.10-0.13.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/mongodb/scala/mongo-scala-driver_2.10/2.9.0/mongo-scala-driver_2.10-2.9.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-parser_2.10/0.13.0/circe-parser_2.10-0.13.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-core_2.10/0.13.0/circe-core_2.10-0.13.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-generic_2.10/0.13.0/circe-generic_2.10-0.13.0.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-parser_2.10/0.13.0/circe-parser_2.10-0.13.0.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-core_2.10/0.13.0/circe-core_2.10-0.13.0.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/mongodb/scala/mongo-scala-driver_2.10/2.9.0/mongo-scala-driver_2.10-2.9.0.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.0/scala-library-2.10.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/net/liftweb/lift-json_2.10/maven-metadata.xml
+[debug] downloaded https://repo1.maven.org/maven2/net/liftweb/lift-json_2.10/2.5.4/lift-json_2.10-2.5.4.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.4.1/paranamer-2.4.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.10.0/scalap-2.10.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer-parent/2.4.1/paranamer-parent-2.4.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/codehaus/codehaus-parent/1/codehaus-parent-1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.10.0/scala-compiler-2.10.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.0/scala-reflect-2.10.0.pom
